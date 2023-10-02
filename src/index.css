@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+
+    background-image: url("/bg.png") !important;
+    background-size: cover;
+}
+
+@layer utilities {
+    .clip-card {
+        clip-path: polygon(
+            0 0,
+            83% 0,
+            100% 14%,
+            100% 70%,
+            100% 100%,
+            19% 100%,
+            0 85%,
+            0% 30%
+        );
+    }
+}
+
