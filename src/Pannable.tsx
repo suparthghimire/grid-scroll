@@ -1,8 +1,6 @@
 import BubbleUI from "react-bubble-ui";
 import Child from "./Child";
-import X from "react-bubble-ui-v2";
 
-const y = X;
 // import "react-bubble-ui/dist/index.css";
 // import ChildComponentSquare from "./ChildComponentSquareCopper";
 // import { data } from "./data";
