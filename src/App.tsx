@@ -1,4 +1,3 @@
-import PannableComponent from "./Pannable";
 import LargeAreaDemo from "./zoomable/LargeArea";
 
 export default function App() {
