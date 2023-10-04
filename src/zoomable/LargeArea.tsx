@@ -19,11 +19,6 @@ const LargeAreaDemo = () => {
           ))}
         </div>
       </Space>
-      <div className="absolute right-[10px] bottom-[80px]">
-        <button className="p-3 bg-purple-500 rounded-xl text-white active:translate-y-[5px]">
-          RECENTER
-        </button>
-      </div>
     </div>
   );
 };
