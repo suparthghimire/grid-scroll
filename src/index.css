@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 body{
-
-    background-image: url("/bg.png") !important;
+    /* background-image: url("/bg.png") !important; */
+    background-image:radial-gradient(rgba(255, 255, 255, 0.5), rgb(123, 99, 247)) !important;
     background-size: cover;
 }
 
