@@ -15,6 +15,7 @@ const Child: React.FC<PropsWithChildren> = (props) => {
           <img
             src="https://images.unsplash.com/photo-1695918428314-eed079fc70b7?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NjQ4Nzg0MQ&ixlib=rb-4.0.3&q=80&w=500"
             className="w-full h-full object-cover"
+            loading="lazy"
           />
         </div>
         <div className="w-full flex items-center justify-between">
