@@ -1,7 +1,7 @@
 import { Space, ViewPort } from "react-zoomable-ui";
 import Child from "../Child";
 
-const Array_ = Array.from({ length: 100 }, (_, i) => i);
+const Array_ = Array.from({ length: 50 }, (_, i) => i);
 
 const initViewPort = (vp: ViewPort) => {
   const windowWidth = window.innerWidth;
