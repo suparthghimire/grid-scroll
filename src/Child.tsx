@@ -13,7 +13,7 @@ const Child: React.FC<PropsWithChildren> = (props) => {
         <p className="text-[18px] font-bold">{props.children}</p>
         <div className="w-[200px] h-[110px]">
           <img
-            src="https://images.unsplash.com/photo-1695918428314-eed079fc70b7?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NjQ4Nzg0MQ&ixlib=rb-4.0.3&q=80&w=500"
+            src="https://plus.unsplash.com/premium_photo-1685276206577-b44f877bfad9?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=110&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NjQ4ODI3Nw&ixlib=rb-4.0.3&q=80&w=200"
             className="w-full h-full object-cover"
             loading="lazy"
           />
